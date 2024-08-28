@@ -22,6 +22,7 @@ export const PageHead: React.FC<
 
   return (
     <Head>
+      <meta name="google-site-verification" content="lAchFiyAYyEid0ZyPplL5aCshxFjt0mwnix2N8x0Ds4" />
       <meta charSet='utf-8' />
       <meta httpEquiv='Content-Type' content='text/html; charset=utf-8' />
       <meta
